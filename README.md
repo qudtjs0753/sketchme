@@ -25,19 +25,15 @@
 
 
 # 아키텍처
-![image](/uploads/7399c503c11fc7758cf4e13f4f14fab3/image.png)
+![image](https://github.com/qudtjs0753/sketchme/assets/39519869/e7b2c89d-3517-437b-bab2-2936941edc64)
 
 
 # UI
 ## 메인페이지 배너
-![image](/uploads/77d6a205a435f81498004c9fe9e513e3/image.png)
+![image](https://github.com/qudtjs0753/sketchme/assets/39519869/2ba99eb9-3236-4407-b067-f7e7c87f3d32)
 ## 메인페이지 하단 
-![image](/uploads/948071620de050671834585ffcf36388/image.png)
+![image](https://github.com/qudtjs0753/sketchme/assets/39519869/7925bcd8-1027-4aad-b18e-1c4755287dbe)
 ## 채팅페이지 
-![image](/uploads/7e41fd27adffba63b77ed1d00b69ea18/image.png)
-## 로딩화면
-![image](/uploads/59af345436eccea600b10e3bdb63f289/image.png)
-## 검색 결과 화면
-![image](/uploads/b4f6710bd410b76abce2c8da07739322/image.png)
+![image](https://github.com/qudtjs0753/sketchme/assets/39519869/4ad8c71b-19b8-4a3a-b477-56b3637f4ebe)
 ## 미니 채팅페이지
-![image](/uploads/330c26f34737d57a0338c0988c24e752/image.png)
+![image](https://github.com/qudtjs0753/sketchme/assets/39519869/6a050186-69fd-40c4-b828-c00ed5decff2)
